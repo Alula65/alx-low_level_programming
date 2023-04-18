@@ -6,8 +6,6 @@
  * @name: name of dog
  * @age: Age of dog
  * @owner: owner of dog
- *
- * Description: Longer 
  */
 struct dog
 {
